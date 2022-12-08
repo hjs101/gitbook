@@ -68,6 +68,8 @@ private : 자신만 접근 가능
 
 ### MVC 패턴 (Model, View, Controller)
 
+![image](https://user-images.githubusercontent.com/97939170/206522614-500a272f-19fb-4554-ba0b-04fc0ff5707c.png)
+
 #### 모델(Model)
 - 앱에서 사용하는 데이터를 뜻함
 - DB, 상수, 변수 등의 데이터
